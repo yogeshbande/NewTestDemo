@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64285" started-at="2017-11-26T16:01:16Z" finished-at="2017-11-26T16:02:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64285" started-at="2017-11-26T16:01:16Z" finished-at="2017-11-26T16:02:20Z">
+      <class name="Demo.Demo">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Demo.Demo@5dfcfece]" name="launchApp" is-config="true" duration-ms="36571" started-at="2017-11-26T21:31:16Z" finished-at="2017-11-26T21:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="perform()[pri:0, instance:Demo.Demo@5dfcfece]" name="perform" duration-ms="27650" started-at="2017-11-26T21:31:53Z" finished-at="2017-11-26T21:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perform -->
+      </class> <!-- Demo.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
